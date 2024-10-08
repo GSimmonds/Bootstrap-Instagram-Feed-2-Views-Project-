@@ -1,0 +1,20 @@
+.Header{
+    display: flex;
+}
+
+.Container-Nav-Pill{
+    justify-content: center;
+}
+
+.table-list{
+display: flex;
+}
+
+.Right-Header-navbar{
+    justify-content: flex-end;
+    float: right;
+}
+
+.row align-items-start{
+    display: horizontal;
+}
