@@ -2,19 +2,15 @@
     display: flex;
 }
 
-.Container-Nav-Pill{
-    justify-content: center;
+
+
+.Post-Pic-Container{
+    margin: auto;
+    width: 600px;
 }
 
-.table-list{
-display: flex;
-}
 
-.Right-Header-navbar{
-    justify-content: flex-end;
+
+.Card-Date{
     float: right;
-}
-
-.row align-items-start{
-    display: horizontal;
 }
